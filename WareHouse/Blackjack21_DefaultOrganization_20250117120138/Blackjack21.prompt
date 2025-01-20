@@ -1,0 +1,1 @@
+Build a Blackjack (21) card game supporting standard rules: the dealer hits up to 16 and stands on 17 or above. The user can choose to 'hit,' 'stand,' or 'double down' when appropriate. Track totals, detect busts, and determine the winner after each round.

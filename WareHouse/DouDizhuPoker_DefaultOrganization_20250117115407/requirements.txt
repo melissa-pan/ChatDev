@@ -1,0 +1,2 @@
+# No external dependencies are required for this project as per the provided code.
+# If additional libraries are used, list them here with their versions.

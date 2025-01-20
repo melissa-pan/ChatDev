@@ -1,0 +1,1 @@
+Create a Spelling Bee puzzle where one central letter and six surrounding letters are provided. The user forms words that include the central letter at least once and only letters from the set. Track the score based on word lengths and display feedback as the user progresses.

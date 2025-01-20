@@ -1,0 +1,1 @@
+Create a Rock-Paper-Scissors game. The user chooses one option, and the computer randomly picks one. Compare results using the usual rules (Rock beats Scissors, Scissors beats Paper, Paper beats Rock). Display the outcome and allow replay.

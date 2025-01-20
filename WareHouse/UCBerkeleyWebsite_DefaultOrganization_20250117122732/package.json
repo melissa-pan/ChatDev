@@ -1,0 +1,11 @@
+'''
+This is the package.json file that includes a script to compile SCSS to CSS using node-sass.
+'''
+{
+  "scripts": {
+    "build-css": "node-sass styles.scss styles.css"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}

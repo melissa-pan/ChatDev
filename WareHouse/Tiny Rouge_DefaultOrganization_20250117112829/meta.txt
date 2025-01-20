@@ -1,0 +1,33 @@
+Task:
+Designed for a roguelike game . it's a Tower of the Sorcerer like game .  Map size 80*80 Use keyboard keys W/S/A/D to control the player character up, down, left, right and right The character can walk on the floor The character can walk on the floor The character can go to the next level after touching a door The monster is judged by the character's hp - the monster's hp The hp is randomly restored to 20-30 hp after touching a treasure chest Cannot pass through a wall There must be at least one path from the starting position to the door.
+
+Config:
+ChatEnvConfig.with_memory: False
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+9.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

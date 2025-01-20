@@ -1,0 +1,1 @@
+Implement Dou Dizhu (Chinese Poker) for three players, one of whom is the 'landlord.' Cards must be played in valid combinations (singles, pairs, straights, etc.). The objective is to be the first to run out of cards or prevent the landlord from doing so, following standard Dou Dizhu rules.

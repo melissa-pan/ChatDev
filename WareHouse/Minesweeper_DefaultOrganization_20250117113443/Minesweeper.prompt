@@ -1,0 +1,1 @@
+Design a classic Minesweeper game with a 9x9 grid containing 10 hidden mines. The player uncovers cells by specifying row and column. Numbers on uncovered cells indicate how many mines are adjacent. If a mine is uncovered, the player loses. The game displays the board with updated markings after each move.

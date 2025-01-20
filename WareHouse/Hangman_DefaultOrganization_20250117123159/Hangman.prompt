@@ -1,0 +1,1 @@
+Create a classic Hangman game. The program selects a random word from a dictionary, and the user guesses letters within a limited number of attempts (e.g., 6). Show placeholders for the letters, track correct and incorrect guesses, and display the final result.

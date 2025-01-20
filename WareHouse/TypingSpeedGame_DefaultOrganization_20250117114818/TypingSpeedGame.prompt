@@ -1,0 +1,1 @@
+Create a typing practice game that measures speed and accuracy. The program displays words or phrases randomly, and the user types them within a set time. It calculates words-per-minute (WPM) and accuracy percentage, displaying final results at the end.

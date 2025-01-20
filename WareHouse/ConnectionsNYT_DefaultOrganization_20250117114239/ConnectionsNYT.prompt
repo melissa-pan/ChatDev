@@ -1,0 +1,1 @@
+Develop a puzzle in which the user must group sixteen words into four categories of four words each, following the standard logic of the NYT Connections game. After each guess, indicate if the chosen words form a valid group. The game ends when the user forms all four correct groups or runs out of tries.

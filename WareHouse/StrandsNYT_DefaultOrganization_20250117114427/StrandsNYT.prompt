@@ -1,0 +1,1 @@
+Implement a version of the NYT Strands puzzle. Provide a set of word segments that players connect to form valid words or phrases. Each connected segment should produce a meaningful solution. The user navigates by making selections and receives confirmation for correct strand formations.
