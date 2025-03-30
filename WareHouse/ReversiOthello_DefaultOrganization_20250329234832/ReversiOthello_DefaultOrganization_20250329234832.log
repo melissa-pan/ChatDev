@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329234832
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Develop a Reversi (Othello) board game. Two players alternate placing discs on an 8x8 grid, flipping the opponent’s discs that lie between the newly placed piece and existing pieces of the same color. The game ends when the board is full or no valid moves remain. The program should automatically identify valid moves, flip discs, and display the current score.
 
 **project_name**: ReversiOthello
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/ReversiOthello_DefaultOrganization_20250329234832.log
+**Log File**: /Users/user/ChatDev/WareHouse/ReversiOthello_DefaultOrganization_20250329234832.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -4988,7 +4988,7 @@ ChatDev Starts (20250329234832)
 
 ChatDev Ends (20250329234951)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/ReversiOthello_DefaultOrganization_20250329234832/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/ReversiOthello_DefaultOrganization_20250329234832/__pycache__ Removed.
 
 
 

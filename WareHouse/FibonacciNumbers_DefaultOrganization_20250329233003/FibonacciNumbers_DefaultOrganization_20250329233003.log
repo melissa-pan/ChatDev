@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329233003
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: write a program that generates Fibonacci numbers up to a given number
 
 **project_name**: FibonacciNumbers
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/FibonacciNumbers_DefaultOrganization_20250329233003.log
+**Log File**: /Users/user/ChatDev/WareHouse/FibonacciNumbers_DefaultOrganization_20250329233003.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False

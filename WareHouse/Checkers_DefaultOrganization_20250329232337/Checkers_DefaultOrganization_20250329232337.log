@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329232337
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Develop a Checkers (Draughts) game. Use an 8x8 board, alternate turns between two players, and apply standard capture and kinging rules. Prompt for moves in notation (e.g., from-to positions) and update the board state accordingly.
 
 **project_name**: Checkers
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Checkers_DefaultOrganization_20250329232337.log
+**Log File**: /Users/user/ChatDev/WareHouse/Checkers_DefaultOrganization_20250329232337.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False

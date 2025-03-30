@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329235040
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Create a simplified version of Monopoly Go! with basic board mechanics: rolling dice, moving around properties, buying them, collecting rent, and handling chance events. Track player money and property ownership. Display relevant game information and prompt each player for decisions. Implement essential rules for jail, free parking, and simplified chance cards.
 
 **project_name**: MonopolyGo
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/MonopolyGo_DefaultOrganization_20250329235040.log
+**Log File**: /Users/user/ChatDev/WareHouse/MonopolyGo_DefaultOrganization_20250329235040.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -8053,7 +8053,7 @@ ChatDev Starts (20250329235040)
 
 ChatDev Ends (20250329235233)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/MonopolyGo_DefaultOrganization_20250329235040/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/MonopolyGo_DefaultOrganization_20250329235040/__pycache__ Removed.
 
 
 

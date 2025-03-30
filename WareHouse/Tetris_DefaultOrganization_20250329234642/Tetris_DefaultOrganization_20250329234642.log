@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329234642
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Create a Tetris game. Tetrominoes fall from the top, and the player can move or rotate them before they land. Completed lines are cleared, and scoring increases accordingly. The game ends when no more pieces can be placed. The board updates after each move or drop. Include all seven standard Tetromino shapes and consider increasing drop speed as the game progresses.
 
 **project_name**: Tetris
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Tetris_DefaultOrganization_20250329234642.log
+**Log File**: /Users/user/ChatDev/WareHouse/Tetris_DefaultOrganization_20250329234642.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -7413,7 +7413,7 @@ ChatDev Starts (20250329234642)
 
 ChatDev Ends (20250329234830)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Tetris_DefaultOrganization_20250329234642/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/Tetris_DefaultOrganization_20250329234642/__pycache__ Removed.
 
 
 

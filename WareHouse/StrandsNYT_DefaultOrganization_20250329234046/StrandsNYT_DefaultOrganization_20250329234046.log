@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329234046
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Implement a version of the NYT Strands puzzle. Strands is a word search game within a 6x8 grid of letters which players use to uncover words falling under a theme. The board must be filled entirely to complete the puzzle - no words will overlap. Each game includes a challenge word called the "spangram" that touches two opposite sides of the board. Themed words will highlight blue; the spangram will highlight yellow. Words can be formed by connecting adjacent letters in any direction (vertically, horizontally, diagonally) and can change direction mid-word. Players can find non-theme words to earn hints. Every 3 non-theme words will unlock a hint! The puzzle must be fully completed by finding all theme words and filling the board.
 
 **project_name**: StrandsNYT
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/StrandsNYT_DefaultOrganization_20250329234046.log
+**Log File**: /Users/user/ChatDev/WareHouse/StrandsNYT_DefaultOrganization_20250329234046.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -5091,7 +5091,7 @@ ChatDev Starts (20250329234046)
 
 ChatDev Ends (20250329234158)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/StrandsNYT_DefaultOrganization_20250329234046/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/StrandsNYT_DefaultOrganization_20250329234046/__pycache__ Removed.
 
 
 

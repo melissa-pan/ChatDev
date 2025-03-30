@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329232841
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Create a budget tracker to monitor expenses and savings
 
 **project_name**: BudgetTracker
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/BudgetTracker_DefaultOrganization_20250329232841.log
+**Log File**: /Users/user/ChatDev/WareHouse/BudgetTracker_DefaultOrganization_20250329232841.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False

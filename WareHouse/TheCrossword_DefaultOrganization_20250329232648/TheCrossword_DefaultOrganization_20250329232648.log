@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329232648
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Implement a crossword puzzle. Provide a grid of squares with clues for across and down entries. The user can enter words by specifying the clue number and direction. The application validates if letters match and confirms completion when all correct words are filled in.
 
 **project_name**: TheCrossword
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/TheCrossword_DefaultOrganization_20250329232648.log
+**Log File**: /Users/user/ChatDev/WareHouse/TheCrossword_DefaultOrganization_20250329232648.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -3905,7 +3905,7 @@ ChatDev Starts (20250329232648)
 
 ChatDev Ends (20250329232750)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/TheCrossword_DefaultOrganization_20250329232648/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/TheCrossword_DefaultOrganization_20250329232648/__pycache__ Removed.
 
 
 

@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329235526
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Build a Flappy Bird clone. The player presses a key to 'flap' and keep the bird from falling. Randomly generated vertical gaps in 'pipes' appear. Each successful pass increases the score. The game ends if the bird collides with a pipe or the ground. Gradually adjust difficulty by varying gap sizes and pipe speeds.
 
 **project_name**: FlappyBird
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/FlappyBird_DefaultOrganization_20250329235526.log
+**Log File**: /Users/user/ChatDev/WareHouse/FlappyBird_DefaultOrganization_20250329235526.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -5100,7 +5100,7 @@ ChatDev Starts (20250329235526)
 
 ChatDev Ends (20250329235637)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/FlappyBird_DefaultOrganization_20250329235526/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/FlappyBird_DefaultOrganization_20250329235526/__pycache__ Removed.
 
 
 

@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329235823
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Design a Gold Miner game. A claw moves back and forth, and the player times a grab to collect gold or other objects. Each object has a value and takes time to reel in. The level ends when time runs out or the minimum gold value is met. Display the position of the claw and objects, updating after each grab. Introduce ascending difficulty with more obstacles or tighter time limits.
 
 **project_name**: GoldMiner
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/GoldMiner_DefaultOrganization_20250329235823.log
+**Log File**: /Users/user/ChatDev/WareHouse/GoldMiner_DefaultOrganization_20250329235823.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -6136,7 +6136,7 @@ ChatDev Starts (20250329235823)
 
 ChatDev Ends (20250329235955)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/GoldMiner_DefaultOrganization_20250329235823/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/GoldMiner_DefaultOrganization_20250329235823/__pycache__ Removed.
 
 
 

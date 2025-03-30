@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329235347
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Implement a match-3 puzzle game reminiscent of Candy Crush. Represent the board and let users swap adjacent candies to form matches of three or more. Matches are cleared, new candies appear, and scoring is tracked. The board updates after each valid move. Incorporate chain reactions when candies fall and possibly track moves or time-based constraints.
 
 **project_name**: CandyCrush
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/CandyCrush_DefaultOrganization_20250329235347.log
+**Log File**: /Users/user/ChatDev/WareHouse/CandyCrush_DefaultOrganization_20250329235347.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -5937,7 +5937,7 @@ ChatDev Starts (20250329235347)
 
 ChatDev Ends (20250329235524)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/CandyCrush_DefaultOrganization_20250329235347/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/CandyCrush_DefaultOrganization_20250329235347/__pycache__ Removed.
 
 
 

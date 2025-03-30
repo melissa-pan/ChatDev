@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329233238
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Design a chess game, allowing two players to take turns and determining the winner. It should be playable from Linux Terminal, and does not require me to access a dedicated UX or GUI platform, i.e. print the results on terminal at each stage and let me play it there by entering inputs (formal chess notation such as Ke8). Include standard chess features like castling, en passant, and pawn promotion. Enforce check and checkmate rules.
 
 **project_name**: Chess
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Chess_DefaultOrganization_20250329233238.log
+**Log File**: /Users/user/ChatDev/WareHouse/Chess_DefaultOrganization_20250329233238.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -6749,7 +6749,7 @@ ChatDev Starts (20250329233238)
 
 ChatDev Ends (20250329233427)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Chess_DefaultOrganization_20250329233238/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/Chess_DefaultOrganization_20250329233238/__pycache__ Removed.
 
 
 

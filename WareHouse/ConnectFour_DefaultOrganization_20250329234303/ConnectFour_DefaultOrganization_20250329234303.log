@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329234303
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Implement a standard Connect Four game. Two players alternate placing discs into a seven-column, six-row grid. The objective is to form a horizontal, vertical, or diagonal line of four discs. Players choose columns by typing a number, and the board updates after each move until a win or draw. Validate column choices and end the game when a winning line is detected or the grid is full.
 
 **project_name**: ConnectFour
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/ConnectFour_DefaultOrganization_20250329234303.log
+**Log File**: /Users/user/ChatDev/WareHouse/ConnectFour_DefaultOrganization_20250329234303.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -3760,7 +3760,7 @@ ChatDev Starts (20250329234303)
 
 ChatDev Ends (20250329234353)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/ConnectFour_DefaultOrganization_20250329234303/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/ConnectFour_DefaultOrganization_20250329234303/__pycache__ Removed.
 
 
 

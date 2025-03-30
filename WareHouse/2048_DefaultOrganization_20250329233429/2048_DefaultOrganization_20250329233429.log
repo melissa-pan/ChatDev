@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329233429
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Design a standard 2048 game using a 4x4 grid. Players combine tiles by pressing arrow keys to slide them in one direction. Tiles with the same number merge into one, doubling the value. After each move, a new tile appears in a random empty cell. The game ends when no moves are possible. Track and display the current score and highest tile reached.
 
 **project_name**: 2048
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/2048_DefaultOrganization_20250329233429.log
+**Log File**: /Users/user/ChatDev/WareHouse/2048_DefaultOrganization_20250329233429.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -4937,7 +4937,7 @@ ChatDev Starts (20250329233429)
 
 ChatDev Ends (20250329233553)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/2048_DefaultOrganization_20250329233429/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/2048_DefaultOrganization_20250329233429/__pycache__ Removed.
 
 
 

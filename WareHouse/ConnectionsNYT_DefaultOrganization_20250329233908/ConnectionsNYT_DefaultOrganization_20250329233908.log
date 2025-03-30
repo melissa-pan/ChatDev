@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329233908
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Develop a puzzle game where the player must group 16 words into four sets of four, based on hidden categories. The words are presented in a 4x4 grid, and players select four at a time to form a group. Correct groups are removed and revealed with a category and a color-coded difficulty (yellow, green, blue, purple). Incorrect guesses count as mistakes, with a maximum of four allowed. Only one correct solution exists, though words may appear to fit multiple categories. Include shuffle functionality and provide immediate feedback after each guess. A new puzzle is generated daily.
 
 **project_name**: ConnectionsNYT
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/ConnectionsNYT_DefaultOrganization_20250329233908.log
+**Log File**: /Users/user/ChatDev/WareHouse/ConnectionsNYT_DefaultOrganization_20250329233908.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -5469,7 +5469,7 @@ ChatDev Starts (20250329233908)
 
 ChatDev Ends (20250329234044)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/ConnectionsNYT_DefaultOrganization_20250329233908/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/ConnectionsNYT_DefaultOrganization_20250329233908/__pycache__ Removed.
 
 
 

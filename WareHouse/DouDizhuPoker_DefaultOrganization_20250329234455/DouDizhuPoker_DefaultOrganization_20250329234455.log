@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329234455
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Implement Dou Dizhu (Chinese Poker) game for three players, one of whom is the 'landlord.' Cards must be played in valid combinations (singles, pairs, straights, etc.). The objective is to be the first to run out of cards or prevent the landlord from doing so, following standard Dou Dizhu rules. Include the bidding phase to determine the landlord, and enforce the pass-or-beat logic for played combinations.
 
 **project_name**: DouDizhuPoker
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/DouDizhuPoker_DefaultOrganization_20250329234455.log
+**Log File**: /Users/user/ChatDev/WareHouse/DouDizhuPoker_DefaultOrganization_20250329234455.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -7682,7 +7682,7 @@ ChatDev Starts (20250329234455)
 
 ChatDev Ends (20250329234640)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/DouDizhuPoker_DefaultOrganization_20250329234455/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/DouDizhuPoker_DefaultOrganization_20250329234455/__pycache__ Removed.
 
 
 

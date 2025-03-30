@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329232547
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Develop a classic Sudoku puzzle game that uses a 9x9 grid. Each row, column, and 3x3 subgrid must contain the digits 1 through 9 exactly once. The program should allow the player to input values for specific cells, check for mistakes, and confirm when the puzzle is completed.
 
 **project_name**: Sudoku
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Sudoku_DefaultOrganization_20250329232547.log
+**Log File**: /Users/user/ChatDev/WareHouse/Sudoku_DefaultOrganization_20250329232547.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -4609,7 +4609,7 @@ ChatDev Starts (20250329232547)
 
 ChatDev Ends (20250329232646)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Sudoku_DefaultOrganization_20250329232547/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/Sudoku_DefaultOrganization_20250329232547/__pycache__ Removed.
 
 
 

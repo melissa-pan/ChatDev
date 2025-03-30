@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329233554
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Design a roguelike game inspired by Tower of the Sorcerer. Use a fixed 80x80 grid map. The player character is controlled using W/A/S/D keys for movement (up, left, down, right). The character can move only on floor tiles and cannot pass through walls. The goal is to reach the door to proceed to the next level. The player encounters monsters; combat is resolved by subtracting the monster’s HP from the player's HP. HP is restored by 20–30 points when the player touches a treasure chest. Ensure there is always at least one valid path from the starting position to the door. Include a minimal UI to display the player's current HP and encountered monster stats.
 
 **project_name**: Tiny Rouge
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Tiny Rouge_DefaultOrganization_20250329233554.log
+**Log File**: /Users/user/ChatDev/WareHouse/Tiny Rouge_DefaultOrganization_20250329233554.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False

@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329233043
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Design a tic-tac-toe game with a user-friendly interface, allowing two players to take turns and determining the winner. Use a standard 3x3 grid, track each player's moves. Players alternate placing X or O, and the game ends when a player wins or the board is full.
 
 **project_name**: TicTacToe
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/TicTacToe_DefaultOrganization_20250329233043.log
+**Log File**: /Users/user/ChatDev/WareHouse/TicTacToe_DefaultOrganization_20250329233043.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False

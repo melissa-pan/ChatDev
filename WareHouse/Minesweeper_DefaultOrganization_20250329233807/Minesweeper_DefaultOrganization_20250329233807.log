@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329233807
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Design a classic Minesweeper game with 3 levels of difficulty (beginner, intermediate, expert). The player uncovers cells by clicking on them. Numbers on uncovered cells indicate how many mines are adjacent. If a mine is uncovered, the player loses. The game displays the board with updated markings after each move. Include a flagging mechanism for suspected mines and a distinct visual for flagged cells.
 
 **project_name**: Minesweeper
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Minesweeper_DefaultOrganization_20250329233807.log
+**Log File**: /Users/user/ChatDev/WareHouse/Minesweeper_DefaultOrganization_20250329233807.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -4463,7 +4463,7 @@ ChatDev Starts (20250329233807)
 
 ChatDev Ends (20250329233906)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Minesweeper_DefaultOrganization_20250329233807/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/Minesweeper_DefaultOrganization_20250329233807/__pycache__ Removed.
 
 
 

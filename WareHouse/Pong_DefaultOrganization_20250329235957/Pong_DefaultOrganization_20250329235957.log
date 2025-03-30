@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329235957
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Develop a two-player Pong game. Each player controls a vertical paddle, moving up and down to bounce a ball back. The ball bounces between the two paddles and off the top and bottom edges. Players score a point when the opponent misses the ball. Incorporate a winning score threshold and reset the ball after each point.
 
 **project_name**: Pong
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Pong_DefaultOrganization_20250329235957.log
+**Log File**: /Users/user/ChatDev/WareHouse/Pong_DefaultOrganization_20250329235957.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -5333,7 +5333,7 @@ ChatDev Starts (20250329235957)
 
 ChatDev Ends (20250330000106)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Pong_DefaultOrganization_20250329235957/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/Pong_DefaultOrganization_20250329235957/__pycache__ Removed.
 
 
 

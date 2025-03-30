@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329234200
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Design a classic Snake game. The player controls a snake using directional inputs to move around the board and eat 'food' items. Each time the snake eats, it grows in length. The game ends if the snake collides with itself or the boundary. The board updates after each move. Show the current score based on food eaten, and consider offering multiple difficulty levels.
 
 **project_name**: SnakeGame
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/SnakeGame_DefaultOrganization_20250329234200.log
+**Log File**: /Users/user/ChatDev/WareHouse/SnakeGame_DefaultOrganization_20250329234200.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -4689,7 +4689,7 @@ ChatDev Starts (20250329234200)
 
 ChatDev Ends (20250329234301)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/SnakeGame_DefaultOrganization_20250329234200/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/SnakeGame_DefaultOrganization_20250329234200/__pycache__ Removed.
 
 
 

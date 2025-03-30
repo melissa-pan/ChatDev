@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329235235
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Develop an interactive storytelling game. Present narrative segments and branching choices. Player decisions influence subsequent story events. Track variables such as relationships or items that alter possible endings. Provide users with different paths based on choices. Store branches in a structured way and use conditional checks to shape the storyline.
 
 **project_name**: EpisodeChooseYourStory
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/EpisodeChooseYourStory_DefaultOrganization_20250329235235.log
+**Log File**: /Users/user/ChatDev/WareHouse/EpisodeChooseYourStory_DefaultOrganization_20250329235235.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -4232,7 +4232,7 @@ ChatDev Starts (20250329235235)
 
 ChatDev Ends (20250329235345)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/EpisodeChooseYourStory_DefaultOrganization_20250329235235/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/EpisodeChooseYourStory_DefaultOrganization_20250329235235/__pycache__ Removed.
 
 
 

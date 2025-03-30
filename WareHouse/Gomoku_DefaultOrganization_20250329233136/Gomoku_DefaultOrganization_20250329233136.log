@@ -4,17 +4,17 @@
 
 **Timestamp**: 20250329233136
 
-**config_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/ChatChainConfig.json
+**config_path**: /Users/user/ChatDev/CompanyConfig/Default/ChatChainConfig.json
 
-**config_phase_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/PhaseConfig.json
+**config_phase_path**: /Users/user/ChatDev/CompanyConfig/Default/PhaseConfig.json
 
-**config_role_path**: /Users/melissapan/Documents/Berkeley/ChatDev/CompanyConfig/Default/RoleConfig.json
+**config_role_path**: /Users/user/ChatDev/CompanyConfig/Default/RoleConfig.json
 
 **task_prompt**: Develop a standard Gomoku game. Implement it on a typical 15x15 board, where two players alternate placing black or white stones. A player wins by forming an unbroken row of five stones horizontally, vertically, or diagonally.
 
 **project_name**: Gomoku
 
-**Log File**: /Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Gomoku_DefaultOrganization_20250329233136.log
+**Log File**: /Users/user/ChatDev/WareHouse/Gomoku_DefaultOrganization_20250329233136.log
 
 **ChatDevConfig**:
 ChatEnvConfig.with_memory: False
@@ -3707,7 +3707,7 @@ ChatDev Starts (20250329233136)
 
 ChatDev Ends (20250329233236)
 
-/Users/melissapan/Documents/Berkeley/ChatDev/WareHouse/Gomoku_DefaultOrganization_20250329233136/__pycache__ Removed.
+/Users/user/ChatDev/WareHouse/Gomoku_DefaultOrganization_20250329233136/__pycache__ Removed.
 
 
 
