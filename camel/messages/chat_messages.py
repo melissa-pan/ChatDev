@@ -1,12 +1,12 @@
 # =========== Copyright 2023 @ CAMEL-AI.org. All Rights Reserved. ===========
-# Licensed under the Apache License, Version 2.0 (the “License”);
+# Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
 #     http://www.apache.org/licenses/LICENSE-2.0
 #
 # Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an “AS IS” BASIS,
+# distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
@@ -39,7 +39,6 @@ class ChatMessage(BaseMessage):
         role (str): The role of the message in OpenAI chat system.
         content (str): The content of the message. (default: :obj:`""`)
         refusal (str): The refusal to build argument.
-        audio (object): The audio contains data about the audio response from the model.
     """
     role_name: str
     role_type: RoleType
@@ -47,10 +46,10 @@ class ChatMessage(BaseMessage):
     role: str
     content: str = ""
     refusal: str = None
-    audio: object = None
     if openai_new_api:
         function_call: Optional[FunctionCall] = None
         tool_calls: Optional[ChatCompletionMessageToolCall] = None
+        annotations: Optional[list] = None  # Add support for annotations
 
     def set_user_role_at_backend(self: BaseMessage):
         return self.__class__(
@@ -60,6 +59,7 @@ class ChatMessage(BaseMessage):
             role="user",
             content=self.content,
             refusal=self.refusal,
+            **({"function_call": self.function_call, "tool_calls": self.tool_calls, "annotations": self.annotations} if openai_new_api else {})
         )
 
 
@@ -78,7 +78,6 @@ class AssistantChatMessage(ChatMessage):
             (default: :obj:`"assistant"`)
         content (str): The content of the message. (default: :obj:`""`)
         refusal (str): The refusal to build argument.
-        audio (object): The audio contains data about the audio response from the model.
     """
     role_name: str
     role_type: RoleType = RoleType.ASSISTANT
@@ -86,7 +85,6 @@ class AssistantChatMessage(ChatMessage):
     role: str = "user"
     content: str = ""
     refusal: str = None
-    audio: object = None
 
 
 @dataclass
@@ -102,7 +100,6 @@ class UserChatMessage(ChatMessage):
             (default: :obj:`"user"`)
         content (str): The content of the message. (default: :obj:`""`)
         refusal (str): The refusal to build argument.
-        audio (object): The audio contains data about the audio response from the model.
     """
     role_name: str
     role_type: RoleType = RoleType.USER
@@ -110,4 +107,3 @@ class UserChatMessage(ChatMessage):
     role: str = "user"
     content: str = ""
     refusal: str = None
-    audio: object = None
