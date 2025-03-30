@@ -25,27 +25,27 @@
     },
     {
         "project_name": "TicTacToe",
-        "description": "Design a tic-tac-toe game with a user-friendly interface, allowing two players to take turns and determining the winner."
+        "description": "Implement a two-player Tic-Tac-Toe on a 3x3 grid. Players alternate placing X or O, and the game checks for a win or draw after each move."
     },
     {
         "project_name": "Gomoku",
-        "description": "Develop a standard Gomoku game."
+        "description": "Implement classic Gomoku on a 15x15 board. Two players place stones, aiming to get five in a row horizontally, vertically, or diagonally."
     },
     {
         "project_name": "Chess",
-        "description": "Design a chess game, allowing two players to take turns and determining the winner. It should be playable from Linux Terminal, and does not require me to access a dedicated UX or GUI platform, i.e. print the results on terminal at each stage and let me play it there by entering inputs (formal chess notation such as Ke8)."
+        "description": "Implement standard chess, fully playable in a Linux terminal with formal algebraic notation (e.g., Ke8). Enforce check and checkmate rules."
     },
     {
         "project_name": "2048",
-        "description": "Design a standard 2048 game with 10*10 grids."
+        "description": "Create a standard 4x4 version of 2048. Slide tiles in four directions, merging equal tiles and tracking score until no moves remain."
     },
     {
         "project_name": "Tiny Rouge",
-        "description": "Designed for a roguelike game . it's a Tower of the Sorcerer like game .  Map size 80*80 Use keyboard keys W/S/A/D to control the player character up, down, left, right and right The character can walk on the floor The character can walk on the floor The character can go to the next level after touching a door The monster is judged by the character's hp - the monster's hp The hp is randomly restored to 20-30 hp after touching a treasure chest Cannot pass through a wall There must be at least one path from the starting position to the door."
+        "description": "Build a roguelike on an 80x80 grid. Use W/S/A/D to move, subtract monster HP from player HP in combat, restore 20–30 HP from treasure, and reach the door."
     },
     {
         "project_name": "Wordle",
-        "description": "Design a standard wordle game by providing a daily 5-letter English language word. The game should allow a player to take 6 turns to guess the word. Correct guess for each letter is colored by green (correct letter in correct position), grey for invalid letter, or yellow for correct letter in wrong position. It should be playable from Linux Terminal, and does not require me to access a dedicated UX or GUI platform, i.e. print the results on terminal at each stage and let me play it there by entering inputs. If the player guesses the word within the allowed number of attempts, they win. If not, the solution is revealed."
+        "description": "A standard New York Times style Wordle with a daily 5-letter word. The 5 letter word is randomly selected for each calendar day. Players have six tries with green, yellow, and gray feedback. Reveal the solution if not guessed after six tries."
     },
     {
         "project_name": "Minesweeper",
