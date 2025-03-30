@@ -5,7 +5,7 @@ import subprocess
 
 def main():
     # Load the data from ideas.json
-    with open('project_ideas.json', 'r') as f:
+    with open('project_ideas_v2.json', 'r') as f:
         ideas = json.load(f)
 
     # Iterate over each idea, building and running the command
